@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Harder / Mathematician"
+title                    : "Andrew Harder"
 title_separator          : "-"
 name                     : &name "Andrew Harder"
 description              : &description "Mathematics professor at Lehigh University"
@@ -21,7 +21,7 @@ repository               : "anhharder/anhharder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "andrew_harder.jpg"
   name             : "Andrew Harder"
   pronouns         : # example: "she/her"  
   bio              : "Mathematician working in algebraic geometry"
