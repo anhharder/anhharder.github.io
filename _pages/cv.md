@@ -20,8 +20,6 @@ Work experience
 * January 2019 - present: Assistant Professor, Lehigh University
 
 * February 2016 - December 2018: Research Assistant Professor, University of Miami
-
-* Summer 2015: Research Assistant
   
 Publications
 ======
